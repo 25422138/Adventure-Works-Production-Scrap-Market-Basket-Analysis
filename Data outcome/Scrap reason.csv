@@ -1,0 +1,168 @@
+ProductID,ProductName,WorkOrderCount,ScrapReason
+3,BB Ball Bearing,13,Stress test failed
+316,Blade,6,Trim length too long
+324,Chain Stays,4,Handling damage
+327,Down Tube,4,Drill size too large
+328,Mountain End Caps,2,Paint process failed
+329,Road End Caps,1,Trim length too short
+330,Touring End Caps,1,Stress test failed
+331,Fork End,8,Trim length too short
+350,Fork Crown,6,Paint process failed
+398,Handlebar Tube,1,Thermoform temperature too high
+399,Head Tube,1,Brake assembly not as ordered
+400,LL Hub,1,Stress test failed
+401,HL Hub,6,Trim length too short
+514,LL Mountain Seat Assembly,1,Thermoform temperature too high
+515,ML Mountain Seat Assembly,1,Thermoform temperature too high
+516,HL Mountain Seat Assembly,1,Color incorrect
+517,LL Road Seat Assembly,2,Handling damage
+518,ML Road Seat Assembly,2,Trim length too short
+520,LL Touring Seat Assembly,1,Trim length too short
+522,HL Touring Seat Assembly,2,Paint process failed
+529,Stem,5,Drill size too small
+531,Steerer,3,Wheel misaligned
+532,Seat Stays,10,Gouge in metal
+533,Seat Tube,3,Thermoform temperature too low
+534,Top Tube,3,Primer process failed
+680,"HL Road Frame - Black, 58",1,Drill size too small
+706,"HL Road Frame - Red, 58",1,Trim length too short
+718,"HL Road Frame - Red, 44",1,Thermoform temperature too low
+720,"HL Road Frame - Red, 52",1,Drill size too small
+722,"LL Road Frame - Black, 58",3,Primer process failed
+723,"LL Road Frame - Black, 60",1,Trim length too long
+725,"LL Road Frame - Red, 44",1,Drill pattern incorrect
+726,"LL Road Frame - Red, 48",1,Handling damage
+727,"LL Road Frame - Red, 52",1,Brake assembly not as ordered
+728,"LL Road Frame - Red, 58",1,Thermoform temperature too high
+729,"LL Road Frame - Red, 60",2,Drill size too small
+730,"LL Road Frame - Red, 62",2,Thermoform temperature too low
+733,"ML Road Frame - Red, 52",2,Wheel misaligned
+734,"ML Road Frame - Red, 58",1,Brake assembly not as ordered
+736,"LL Road Frame - Black, 44",1,Trim length too short
+737,"LL Road Frame - Black, 48",2,Primer process failed
+738,"LL Road Frame - Black, 52",3,Brake assembly not as ordered
+739,"HL Mountain Frame - Silver, 42",4,Color incorrect
+740,"HL Mountain Frame - Silver, 44",1,Gouge in metal
+742,"HL Mountain Frame - Silver, 46",1,Stress test failed
+743,"HL Mountain Frame - Black, 42",2,Primer process failed
+744,"HL Mountain Frame - Black, 44",1,Drill pattern incorrect
+746,"HL Mountain Frame - Black, 46",3,Color incorrect
+747,"HL Mountain Frame - Black, 38",1,Primer process failed
+748,"HL Mountain Frame - Silver, 38",1,Thermoform temperature too high
+753,"Road-150 Red, 56",1,Stress test failed
+756,"Road-450 Red, 44",1,Primer process failed
+758,"Road-450 Red, 52",1,Thermoform temperature too high
+759,"Road-650 Red, 58",1,Thermoform temperature too high
+760,"Road-650 Red, 60",2,Stress test failed
+761,"Road-650 Red, 62",2,Seat assembly not as ordered
+762,"Road-650 Red, 44",1,Color incorrect
+763,"Road-650 Red, 48",1,Thermoform temperature too low
+764,"Road-650 Red, 52",1,Thermoform temperature too high
+765,"Road-650 Black, 58",1,Thermoform temperature too high
+766,"Road-650 Black, 60",1,Drill size too large
+767,"Road-650 Black, 62",1,Thermoform temperature too high
+769,"Road-650 Black, 48",1,Thermoform temperature too low
+770,"Road-650 Black, 52",2,Thermoform temperature too low
+771,"Mountain-100 Silver, 38",1,Drill size too large
+772,"Mountain-100 Silver, 42",1,Thermoform temperature too low
+773,"Mountain-100 Silver, 44",1,Trim length too long
+775,"Mountain-100 Black, 38",1,Trim length too long
+776,"Mountain-100 Black, 42",1,Thermoform temperature too high
+777,"Mountain-100 Black, 44",1,Trim length too long
+778,"Mountain-100 Black, 48",1,Trim length too short
+779,"Mountain-200 Silver, 38",2,Drill size too small
+780,"Mountain-200 Silver, 42",2,Drill size too small
+781,"Mountain-200 Silver, 46",1,Gouge in metal
+782,"Mountain-200 Black, 38",1,Trim length too long
+783,"Mountain-200 Black, 42",1,Handling damage
+784,"Mountain-200 Black, 46",1,Trim length too long
+786,"Mountain-300 Black, 40",1,Drill pattern incorrect
+787,"Mountain-300 Black, 44",1,Drill pattern incorrect
+788,"Mountain-300 Black, 48",1,Trim length too short
+789,"Road-250 Red, 44",1,Trim length too short
+790,"Road-250 Red, 48",1,Paint process failed
+791,"Road-250 Red, 52",1,Drill size too large
+793,"Road-250 Black, 44",1,Brake assembly not as ordered
+794,"Road-250 Black, 48",1,Drill size too small
+796,"Road-250 Black, 58",1,Drill size too large
+797,"Road-550-W Yellow, 38",1,Drill size too large
+798,"Road-550-W Yellow, 40",1,Thermoform temperature too low
+799,"Road-550-W Yellow, 42",1,Drill size too small
+801,"Road-550-W Yellow, 48",1,Drill size too small
+802,LL Fork,1,Color incorrect
+803,ML Fork,1,Trim length too long
+804,HL Fork,1,Stress test failed
+805,LL Headset,1,Primer process failed
+806,ML Headset,2,Trim length too long
+807,HL Headset,2,Seat assembly not as ordered
+808,LL Mountain Handlebars,1,Color incorrect
+809,ML Mountain Handlebars,1,Color incorrect
+810,HL Mountain Handlebars,1,Drill size too small
+811,LL Road Handlebars,2,Gouge in metal
+812,ML Road Handlebars,1,Thermoform temperature too low
+813,HL Road Handlebars,2,Trim length too long
+815,LL Mountain Front Wheel,1,Primer process failed
+816,ML Mountain Front Wheel,2,Drill pattern incorrect
+817,HL Mountain Front Wheel,1,Drill size too large
+818,LL Road Front Wheel,1,Color incorrect
+819,ML Road Front Wheel,1,Trim length too short
+820,HL Road Front Wheel,2,Gouge in metal
+821,Touring Front Wheel,1,Color incorrect
+822,"ML Road Frame-W - Yellow, 38",3,Drill pattern incorrect
+823,LL Mountain Rear Wheel,1,Gouge in metal
+824,ML Mountain Rear Wheel,1,Wheel misaligned
+826,LL Road Rear Wheel,2,Drill size too large
+827,ML Road Rear Wheel,2,Thermoform temperature too high
+828,HL Road Rear Wheel,3,Drill size too large
+829,Touring Rear Wheel,2,Thermoform temperature too low
+830,"ML Mountain Frame - Black, 40",1,Wheel misaligned
+831,"ML Mountain Frame - Black, 44",1,Wheel misaligned
+832,"ML Mountain Frame - Black, 48",1,Primer process failed
+833,"ML Road Frame-W - Yellow, 40",1,Gouge in metal
+834,"ML Road Frame-W - Yellow, 42",1,Stress test failed
+835,"ML Road Frame-W - Yellow, 44",1,Stress test failed
+836,"ML Road Frame-W - Yellow, 48",1,Thermoform temperature too high
+838,"HL Road Frame - Black, 44",1,Thermoform temperature too low
+839,"HL Road Frame - Black, 48",1,Thermoform temperature too low
+840,"HL Road Frame - Black, 52",1,Wheel misaligned
+885,"HL Touring Frame - Yellow, 60",1,Handling damage
+886,"LL Touring Frame - Yellow, 62",1,Drill pattern incorrect
+887,"HL Touring Frame - Yellow, 46",1,Brake assembly not as ordered
+888,"HL Touring Frame - Yellow, 50",1,Trim length too short
+889,"HL Touring Frame - Yellow, 54",2,Thermoform temperature too high
+890,"HL Touring Frame - Blue, 46",1,Paint process failed
+891,"HL Touring Frame - Blue, 50",1,Drill size too large
+892,"HL Touring Frame - Blue, 54",1,Color incorrect
+893,"HL Touring Frame - Blue, 60",2,Wheel misaligned
+894,Rear Derailleur,1,Stress test failed
+896,"LL Touring Frame - Blue, 54",1,Drill size too large
+899,"LL Touring Frame - Yellow, 44",1,Paint process failed
+900,"LL Touring Frame - Yellow, 50",1,Color incorrect
+903,"LL Touring Frame - Blue, 44",1,Brake assembly not as ordered
+904,"ML Mountain Frame-W - Silver, 40",1,Drill size too small
+905,"ML Mountain Frame-W - Silver, 42",1,Drill size too small
+917,"LL Mountain Frame - Silver, 42",1,Drill pattern incorrect
+924,"LL Mountain Frame - Black, 42",1,Gouge in metal
+925,"LL Mountain Frame - Black, 44",1,Drill size too small
+926,"LL Mountain Frame - Black, 48",1,Handling damage
+944,"LL Mountain Frame - Silver, 40",1,Primer process failed
+945,Front Derailleur,1,Trim length too long
+946,LL Touring Handlebars,1,Seat assembly not as ordered
+949,LL Crankset,1,Thermoform temperature too low
+950,ML Crankset,1,Thermoform temperature too low
+951,HL Crankset,2,Drill size too small
+954,"Touring-1000 Yellow, 46",2,Wheel misaligned
+957,"Touring-1000 Yellow, 60",1,Drill size too large
+959,"Touring-3000 Blue, 58",1,Brake assembly not as ordered
+962,"Touring-3000 Yellow, 50",1,Trim length too long
+967,"Touring-1000 Blue, 50",1,Trim length too short
+969,"Touring-1000 Blue, 60",2,Color incorrect
+972,"Touring-2000 Blue, 54",1,Paint process failed
+974,"Road-350-W Yellow, 42",2,Gouge in metal
+977,"Road-750 Black, 58",1,Brake assembly not as ordered
+979,"Touring-3000 Blue, 50",2,Gouge in metal
+994,LL Bottom Bracket,2,Handling damage
+995,ML Bottom Bracket,1,Trim length too long
+996,HL Bottom Bracket,1,Seat assembly not as ordered
+998,"Road-750 Black, 48",1,Trim length too short
+999,"Road-750 Black, 52",1,Thermoform temperature too low
