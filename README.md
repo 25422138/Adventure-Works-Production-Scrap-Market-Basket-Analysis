@@ -1,5 +1,7 @@
 # Adventure Works: Production Scrap & Market Basket Analysis
 
+---
+
 ## 📊 Project Overview
 
 This group project analyzes **production scrap reasons** and **sales order patterns** for Adventure Works Cycles (FY2012–2014).  
