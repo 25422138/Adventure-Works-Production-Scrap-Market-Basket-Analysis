@@ -20,7 +20,8 @@ Using SQL queries and business analytics, the study identifies manufacturing ine
 
 ## 🛠️ Tools & Technologies
 
-- **SQL (T-SQL)**: CTE queries, aggregations, matrix generation
+- **SQL (T-SQL)**: Complex queries, CTEs, aggregations, market basket analysis
+- **Azure Data Studio**: Query execution, database exploration, and reporting
 - **PowerPoint / Word**: Business reporting and visualization
 - **GitHub**: Portfolio hosting and documentation
 
